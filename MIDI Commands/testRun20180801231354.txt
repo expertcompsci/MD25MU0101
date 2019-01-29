@@ -1,0 +1,74 @@
+Psalte PD25MU0101.sh Test Suite Results
+Date: 2018 08 01 23:13:54
+ResetAll.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 24 F7
+...................................
+SetCable15.bin Result: 
+
+F0 7E 7F 1E 01 00 0F 00 24 F7
+...................................
+SetCable16.bin Result: 
+
+F0 7E 7F 1E 01 00 0F 00 24 F7
+...................................
+SetCableZero.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 24 F7
+...................................
+SetChannel17.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 24 F7
+...................................
+SetChannelMax.bin Result: 
+
+F0 7E 7F 1E 10 00 00 00 24 F7
+...................................
+SetChannelMin.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 24 F7
+...................................
+SetChannelZero.bin Result: 
+
+...................................
+SetSensitivity25.bin Result: 
+
+F0 7E 7F 1E 01 00 00 19 24 F7
+...................................
+SetSensitivity26.bin Result: 
+
+F0 7E 7F 1E 01 00 00 19 24 F7
+...................................
+SetSensitivityZero.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 24 F7
+...................................
+SetTranspose102.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 66 F7
+...................................
+SetTranspose103.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 66 F7
+...................................
+SetTransposeZero.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 00 F7
+...................................
+SetVelocityFalse.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 00 F7
+...................................
+SetVelocityTrue.bin Result: 
+
+F0 7E 7F 1E 01 01 00 00 00 F7
+...................................
+ResetAll.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 24 F7
+...................................
+DumpStatus.bin Result: 
+
+F0 7E 7F 1E 01 00 00 00 24 F7
+F0 7E 7F 1E 01 00 00 00 24 F7
+...................................
